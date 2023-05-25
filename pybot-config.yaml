@@ -1,0 +1,6 @@
+- Config:
+    client_title: RuneLite - Azazelazumad
+    enable_on_start: false
+    file_path_to_client: \.runelite\
+    pc_profile: C:\Users\afons
+    tesseract_path: C:\Program Files\Tesseract-OCR\
